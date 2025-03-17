@@ -95,7 +95,7 @@ p{
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-around;
-    position: relative;
+    /* position: relative; */
     
 }
 .crow{
